@@ -13,26 +13,31 @@ Low cost system
 
 SWOT- Strengths, Weakness, Opportunities and Threats
 
-Strengths
+Strengths:
 
 The temperature can be modified inside the vehicles easily
 Low cost system
-Weakness
+
+Weakness:
 
 Its only applicable for those countries which are having low temperature.
 
-Opportunities
+Opportunities:
+
 It can be implemented by having both Heater and AC.
 
-Threats
+Threats:
+
 Not suitable for average or high temperature places.
 
 4W's and 1'H
 
 WHAT
 Seat Temperature Monitoring System
+
 WHERE
 used in Automotive Industries
+
 WHEN
 At low Temperature
 
