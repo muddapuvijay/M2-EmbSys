@@ -66,23 +66,23 @@ Low Level Requirements:
 
 Low Level Requirements	Description
 
-HLR1_LLR1	
+HLR1_LLR1 -
 ATmega328
 
-HLR2_LLR1	
+HLR2_LLR1 -
 Switch pins,LED and ADC
 
-HLR2_LLR2	
+HLR2_LLR2 -	
 ADC with PWM-fast
 
-HLR3_LLR1	
+HLR3_LLR1 -	
 Thermoelectric module
 
-HLR4_LLR1
+HLR4_LLR1 -
 UART and LED
 
-HLR5_LLR1	
+HLR5_LLR1 -	
 Code Blocks with AVR GCC compiler
 
-HLR5_LLR2	
+HLR5_LLR2 -	
 SimulIDE
