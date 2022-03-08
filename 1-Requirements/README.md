@@ -4,7 +4,7 @@ Introduction
 
 Adjusting the temperature is often one of the first things you do when you get into a vehicle. Whether it's too hot or too cold outside, you want the climate in the car to be exactly how you like it.In the proposed project,we have used sensor which will sense whether driver is seated or not and if he is seated then need to set the temperature accordingly. Based on that our controller will set the heater to required temperature. The Heater will generate the heat and a uart display will show the temperature.Here we have used ATmega328 microcontroller along with switch pins, LED, UART diplay,etc.
 
-Features
+Features:
 
 The System will sense whether driver is seated or not
 The temperature can be altered by driver
@@ -47,30 +47,42 @@ High Level Requirements
 
 High Level Requirements	Description
 
-HLR1	Microcontroller
+HLR1	
+Microcontroller
 
-HLR2	Temperature Sensor
+HLR2	
+Temperature Sensor
 
-HLR3	Heat Generation
+HLR3	
+Heat Generation
 
-HLR4	Display
+HLR4	
+Display
 
-HLR5	Software used
+HLR5	
+Software used
 
 Low Level Requirements
 
 Low Level Requirements	Description
 
-HLR1_LLR1	ATmega328
+HLR1_LLR1	
+ATmega328
 
-HLR2_LLR1	Switch pins,LED and ADC
+HLR2_LLR1	
+Switch pins,LED and ADC
 
-HLR2_LLR2	ADC with PWM-fast
+HLR2_LLR2	
+ADC with PWM-fast
 
-HLR3_LLR1	Thermoelectric module
+HLR3_LLR1	
+Thermoelectric module
 
-HLR4_LLR1	UART and LED
+HLR4_LLR1
+UART and LED
 
-HLR5_LLR1	Code Blocks with AVR GCC compiler
+HLR5_LLR1	
+Code Blocks with AVR GCC compiler
 
-HLR5_LLR2	SimulIDE
+HLR5_LLR2	
+SimulIDE
