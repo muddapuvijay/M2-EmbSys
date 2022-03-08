@@ -5,6 +5,7 @@ Introduction
 Adjusting the temperature is often one of the first things you do when you get into a vehicle. Whether it's too hot or too cold outside, you want the climate in the car to be exactly how you like it.In the proposed project,we have used sensor which will sense whether driver is seated or not and if he is seated then need to set the temperature accordingly. Based on that our controller will set the heater to required temperature. The Heater will generate the heat and a uart display will show the temperature.Here we have used ATmega328 microcontroller along with switch pins, LED, UART diplay,etc.
 
 Features
+
 The System will sense whether driver is seated or not
 The temperature can be altered by driver
 Heater will generate the heat accordingly based on driver requirement
