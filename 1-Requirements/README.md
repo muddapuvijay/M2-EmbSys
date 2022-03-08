@@ -32,13 +32,13 @@ Not suitable for average or high temperature places.
 
 4W's and 1'H
 
-WHAT
+WHAT:
 Seat Temperature Monitoring System
 
-WHERE
+WHERE:
 used in Automotive Industries
 
-WHEN
+WHEN:
 At low Temperature
 
 Detail requirements
